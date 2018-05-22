@@ -1,0 +1,24 @@
+h1 {
+  color: blue;
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+
+}
+p {
+  font-family: sans-serif;
+  text-align: center;
+}
+li {
+  color: black;
+  font-size: 40px;
+}
+li:hover {
+  color: purple;
+}
+img {
+  width: 175px;
+  height: 175px;
+}
